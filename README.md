@@ -1,4 +1,4 @@
-# vue-xinnuoyike
+# bjsinoeco-vue
 
 > 一个基于vue开发的企业信息展示页面，包含了资料上传等功能
 
