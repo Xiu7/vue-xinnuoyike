@@ -1,6 +1,6 @@
 # vue-xinnuoyike
 
-> A Vue.js project
+> 一个基于vue开发的企业信息展示页面，包含了资料上传等功能
 
 ## Build Setup
 
